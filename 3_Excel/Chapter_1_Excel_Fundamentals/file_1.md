@@ -127,6 +127,10 @@ Basic Navigation Shortcuts
         - A$1 -> Row 1 is fixed, column can change
 <img src="images/mixed_refernce.png" width="75%"> \
 [👆 Mixed Reference](images/mixed_refernce.png)
+
+<img src="images/referencing_formula.png" width="75%">\
+[👆 Referencing Formula](images/referencing_formula.png)
+
 ---
 
 #### Summary - Excel Fundamentals
