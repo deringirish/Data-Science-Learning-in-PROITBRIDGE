@@ -1,0 +1,251 @@
+Order_ID,Order_Date,Category,Product_Name,Region,Quantity_Sold,Unit_Price,Total_Sales,Stock_Status
+ORD0001,08-09-2023,Fruits,Apple,South,95,160,15200,Available
+ORD0002,08-03-2024,Fruits,Mango,North,12,322,3864,Available
+ORD0003,08-09-2024,Fruits,Banana,North,30,278,8340,Out of Stock
+ORD0004,04-04-2024,Vegetables,Beans,East,54,132,7128,Available
+ORD0005,09-06-2023,Vegetables,Carrot,South,44,162,7128,Low Stock
+ORD0006,03-01-2024,Fruits,Apple,East,49,69,3381,Out of Stock
+ORD0007,03-07-2024,Beverages,Tea,North,94,255,23970,Low Stock
+ORD0008,05-10-2024,Fruits,Mango,East,38,444,16872,Out of Stock
+ORD0009,22-08-2023,Vegetables,Tomato,East,6,358,2148,Available
+ORD0010,09-04-2024,Vegetables,Tomato,East,49,162,7938,Available
+ORD0011,01-10-2023,Beverages,Juice,North,27,363,9801,Out of Stock
+ORD0012,17-06-2023,Vegetables,Beans,West,94,145,13630,Low Stock
+ORD0013,29-11-2023,Beverages,Milkshake,North,29,370,10730,Available
+ORD0014,09-03-2023,Fruits,Orange,South,52,157,8164,Out of Stock
+ORD0015,10-02-2024,Beverages,Coffee,West,84,275,23100,Available
+ORD0016,28-07-2024,Beverages,Coffee,East,32,401,12832,Out of Stock
+ORD0017,06-01-2024,Dairy,Yogurt,South,75,224,16800,Available
+ORD0018,18-02-2023,Dairy,Yogurt,North,12,406,4872,Available
+ORD0019,30-01-2024,Vegetables,Carrot,West,77,52,4004,Out of Stock
+ORD0020,12-01-2023,Snacks,Popcorn,North,33,303,9999,Out of Stock
+ORD0021,15-12-2023,Dairy,Butter,North,99,348,34452,Low Stock
+ORD0022,27-09-2023,Snacks,Cookies,South,59,21,1239,Out of Stock
+ORD0023,15-09-2024,Fruits,Orange,South,82,279,22878,Available
+ORD0024,27-06-2024,Beverages,Coffee,North,70,418,29260,Out of Stock
+ORD0025,07-01-2024,Beverages,Soft Drink,East,3,77,231,Available
+ORD0026,29-03-2023,Fruits,Banana,West,73,60,4380,Available
+ORD0027,01-05-2024,Dairy,Cheese,South,17,357,6069,Low Stock
+ORD0028,06-07-2024,Dairy,Paneer,South,55,128,7040,Out of Stock
+ORD0029,18-01-2024,Beverages,Soft Drink,West,86,352,30272,Out of Stock
+ORD0030,07-03-2023,Snacks,Chips,East,32,135,4320,Available
+ORD0031,14-08-2023,Dairy,Paneer,North,30,321,9630,Available
+ORD0032,02-02-2023,Fruits,Banana,East,9,483,4347,Available
+ORD0033,12-05-2024,Dairy,Cheese,South,36,362,13032,Out of Stock
+ORD0034,06-09-2023,Vegetables,Beans,West,74,262,19388,Low Stock
+ORD0035,17-03-2024,Vegetables,Tomato,East,13,357,4641,Low Stock
+ORD0036,20-11-2024,Snacks,Nuts,North,94,47,4418,Available
+ORD0037,16-07-2023,Snacks,Biscuits,South,14,147,2058,Out of Stock
+ORD0038,13-10-2023,Snacks,Cookies,West,55,113,6215,Available
+ORD0039,21-02-2023,Fruits,Grapes,North,71,70,4970,Available
+ORD0040,07-05-2024,Vegetables,Potato,South,53,268,14204,Low Stock
+ORD0041,04-02-2024,Fruits,Banana,East,49,21,1029,Low Stock
+ORD0042,23-07-2024,Beverages,Soft Drink,West,90,394,35460,Available
+ORD0043,16-08-2024,Vegetables,Onion,North,28,49,1372,Out of Stock
+ORD0044,03-05-2024,Beverages,Tea,South,7,319,2233,Available
+ORD0045,01-09-2024,Dairy,Milk,North,24,55,1320,Out of Stock
+ORD0046,06-08-2024,Vegetables,Carrot,South,16,475,7600,Out of Stock
+ORD0047,05-03-2024,Dairy,Milk,East,80,61,4880,Low Stock
+ORD0048,10-02-2024,Vegetables,Onion,South,31,155,4805,Out of Stock
+ORD0049,16-03-2023,Beverages,Soft Drink,North,41,495,20295,Low Stock
+ORD0050,04-07-2024,Dairy,Paneer,South,13,57,741,Out of Stock
+ORD0051,12-03-2023,Beverages,Coffee,South,45,471,21195,Low Stock
+ORD0052,10-07-2024,Beverages,Coffee,East,57,446,25422,Out of Stock
+ORD0053,21-07-2024,Dairy,Milk,East,86,438,37668,Out of Stock
+ORD0054,20-04-2023,Fruits,Banana,South,34,79,2686,Low Stock
+ORD0055,18-12-2023,Beverages,Milkshake,South,27,387,10449,Out of Stock
+ORD0056,22-02-2023,Beverages,Milkshake,North,63,148,9324,Out of Stock
+ORD0057,08-12-2023,Snacks,Biscuits,South,6,21,126,Out of Stock
+ORD0058,18-07-2024,Beverages,Coffee,West,95,246,23370,Out of Stock
+ORD0059,02-06-2023,Fruits,Apple,North,10,472,4720,Low Stock
+ORD0060,11-05-2023,Dairy,Paneer,North,19,240,4560,Low Stock
+ORD0061,29-11-2024,Beverages,Tea,South,46,127,5842,Out of Stock
+ORD0062,21-02-2024,Fruits,Orange,South,100,306,30600,Available
+ORD0063,03-07-2023,Vegetables,Potato,East,53,32,1696,Low Stock
+ORD0064,21-04-2023,Vegetables,Onion,West,21,423,8883,Available
+ORD0065,16-04-2024,Snacks,Cookies,East,26,438,11388,Low Stock
+ORD0066,17-07-2023,Vegetables,Potato,West,4,357,1428,Low Stock
+ORD0067,26-12-2023,Beverages,Tea,West,99,162,16038,Out of Stock
+ORD0068,25-09-2023,Dairy,Butter,South,4,79,316,Out of Stock
+ORD0069,20-03-2024,Beverages,Tea,East,14,325,4550,Out of Stock
+ORD0070,29-04-2023,Beverages,Soft Drink,West,78,281,21918,Out of Stock
+ORD0071,22-03-2024,Vegetables,Onion,North,6,382,2292,Out of Stock
+ORD0072,13-03-2023,Dairy,Cheese,East,47,240,11280,Out of Stock
+ORD0073,04-11-2023,Beverages,Tea,East,93,480,44640,Out of Stock
+ORD0074,30-10-2023,Snacks,Biscuits,South,52,376,19552,Available
+ORD0075,28-06-2023,Snacks,Nuts,East,87,403,35061,Low Stock
+ORD0076,04-08-2023,Dairy,Milk,West,39,166,6474,Out of Stock
+ORD0077,28-03-2024,Dairy,Butter,South,60,246,14760,Out of Stock
+ORD0078,18-10-2023,Snacks,Cookies,East,85,63,5355,Available
+ORD0079,23-07-2023,Vegetables,Onion,South,29,432,12528,Available
+ORD0080,16-03-2023,Fruits,Banana,West,61,332,20252,Low Stock
+ORD0081,29-01-2024,Dairy,Cheese,West,92,376,34592,Low Stock
+ORD0082,06-01-2023,Vegetables,Potato,North,84,372,31248,Low Stock
+ORD0083,20-04-2024,Vegetables,Potato,North,90,285,25650,Out of Stock
+ORD0084,20-04-2024,Vegetables,Tomato,East,59,88,5192,Low Stock
+ORD0085,15-07-2024,Dairy,Paneer,West,55,445,24475,Available
+ORD0086,11-09-2023,Snacks,Nuts,East,34,404,13736,Out of Stock
+ORD0087,21-03-2023,Snacks,Cookies,East,36,245,8820,Available
+ORD0088,07-07-2024,Beverages,Juice,North,41,477,19557,Available
+ORD0089,06-06-2023,Vegetables,Potato,South,50,375,18750,Available
+ORD0090,22-04-2024,Snacks,Nuts,West,43,297,12771,Available
+ORD0091,21-08-2024,Vegetables,Carrot,North,50,483,24150,Out of Stock
+ORD0092,02-11-2023,Snacks,Nuts,West,1,200,200,Low Stock
+ORD0093,14-08-2023,Dairy,Paneer,West,78,479,37362,Available
+ORD0094,03-02-2024,Beverages,Soft Drink,East,63,34,2142,Out of Stock
+ORD0095,11-05-2023,Snacks,Cookies,North,60,490,29400,Low Stock
+ORD0096,27-03-2023,Dairy,Paneer,West,85,33,2805,Available
+ORD0097,24-01-2024,Snacks,Cookies,East,7,153,1071,Available
+ORD0098,24-01-2024,Snacks,Biscuits,East,44,409,17996,Low Stock
+ORD0099,06-07-2024,Beverages,Tea,North,61,29,1769,Low Stock
+ORD0100,11-02-2023,Vegetables,Tomato,North,100,353,35300,Available
+ORD0101,02-09-2023,Vegetables,Tomato,South,80,98,7840,Low Stock
+ORD0102,20-09-2023,Fruits,Mango,East,28,258,7224,Available
+ORD0103,28-04-2023,Dairy,Paneer,South,96,387,37152,Low Stock
+ORD0104,16-11-2023,Fruits,Mango,West,4,495,1980,Low Stock
+ORD0105,04-10-2024,Vegetables,Tomato,South,76,373,28348,Available
+ORD0106,02-08-2024,Beverages,Milkshake,North,16,427,6832,Low Stock
+ORD0107,12-03-2023,Dairy,Yogurt,East,85,209,17765,Available
+ORD0108,06-01-2024,Snacks,Nuts,West,14,241,3374,Out of Stock
+ORD0109,18-06-2024,Vegetables,Carrot,East,23,395,9085,Out of Stock
+ORD0110,29-08-2024,Dairy,Yogurt,East,60,243,14580,Low Stock
+ORD0111,06-04-2024,Vegetables,Tomato,South,36,471,16956,Low Stock
+ORD0112,11-12-2023,Dairy,Paneer,North,86,214,18404,Low Stock
+ORD0113,30-12-2023,Beverages,Coffee,East,63,128,8064,Low Stock
+ORD0114,10-10-2023,Beverages,Milkshake,North,90,470,42300,Out of Stock
+ORD0115,21-02-2024,Vegetables,Tomato,West,31,388,12028,Out of Stock
+ORD0116,17-05-2024,Vegetables,Carrot,West,83,384,31872,Available
+ORD0117,07-09-2023,Fruits,Orange,East,29,227,6583,Out of Stock
+ORD0118,27-06-2024,Dairy,Butter,East,61,303,18483,Low Stock
+ORD0119,09-04-2024,Dairy,Butter,East,46,379,17434,Low Stock
+ORD0120,17-07-2023,Beverages,Coffee,East,16,389,6224,Available
+ORD0121,10-05-2024,Dairy,Cheese,East,25,130,3250,Out of Stock
+ORD0122,13-04-2023,Dairy,Paneer,South,77,164,12628,Low Stock
+ORD0123,15-01-2023,Vegetables,Onion,South,23,174,4002,Low Stock
+ORD0124,10-05-2023,Fruits,Apple,West,71,169,11999,Available
+ORD0125,05-05-2024,Fruits,Mango,West,37,260,9620,Low Stock
+ORD0126,04-05-2024,Vegetables,Tomato,North,33,461,15213,Available
+ORD0127,06-10-2024,Snacks,Nuts,North,10,315,3150,Available
+ORD0128,12-09-2023,Vegetables,Beans,North,39,63,2457,Out of Stock
+ORD0129,25-09-2024,Snacks,Popcorn,South,77,424,32648,Out of Stock
+ORD0130,25-08-2024,Snacks,Nuts,West,57,172,9804,Low Stock
+ORD0131,12-04-2023,Dairy,Paneer,South,8,332,2656,Out of Stock
+ORD0132,10-06-2023,Vegetables,Onion,South,85,61,5185,Available
+ORD0133,23-02-2024,Dairy,Milk,West,21,21,441,Out of Stock
+ORD0134,26-08-2023,Dairy,Yogurt,East,38,36,1368,Out of Stock
+ORD0135,28-08-2023,Beverages,Soft Drink,East,10,371,3710,Out of Stock
+ORD0136,11-07-2024,Dairy,Cheese,South,55,78,4290,Out of Stock
+ORD0137,03-03-2023,Vegetables,Onion,South,19,56,1064,Low Stock
+ORD0138,08-05-2023,Dairy,Paneer,West,37,244,9028,Out of Stock
+ORD0139,06-07-2024,Beverages,Soft Drink,West,35,276,9660,Low Stock
+ORD0140,18-03-2024,Fruits,Mango,East,6,475,2850,Out of Stock
+ORD0141,21-11-2024,Beverages,Tea,North,12,137,1644,Out of Stock
+ORD0142,29-06-2023,Beverages,Milkshake,West,6,410,2460,Out of Stock
+ORD0143,22-03-2024,Snacks,Biscuits,West,24,319,7656,Available
+ORD0144,25-11-2023,Snacks,Biscuits,North,53,190,10070,Available
+ORD0145,23-10-2023,Beverages,Soft Drink,West,89,273,24297,Out of Stock
+ORD0146,16-09-2023,Fruits,Grapes,East,12,181,2172,Available
+ORD0147,09-07-2024,Snacks,Popcorn,West,1,356,356,Low Stock
+ORD0148,29-09-2024,Fruits,Banana,West,67,205,13735,Out of Stock
+ORD0149,16-07-2024,Snacks,Chips,South,27,156,4212,Low Stock
+ORD0150,07-10-2024,Snacks,Nuts,South,16,34,544,Out of Stock
+ORD0151,19-07-2024,Vegetables,Onion,West,71,27,1917,Available
+ORD0152,25-10-2024,Vegetables,Tomato,South,60,80,4800,Low Stock
+ORD0153,01-03-2024,Beverages,Milkshake,West,91,159,14469,Low Stock
+ORD0154,28-01-2024,Vegetables,Carrot,South,71,94,6674,Out of Stock
+ORD0155,29-02-2024,Dairy,Cheese,East,9,161,1449,Out of Stock
+ORD0156,02-11-2023,Beverages,Tea,West,37,391,14467,Available
+ORD0157,07-12-2023,Snacks,Popcorn,West,62,196,12152,Low Stock
+ORD0158,08-08-2024,Beverages,Coffee,West,90,142,12780,Available
+ORD0159,29-04-2024,Snacks,Chips,West,41,401,16441,Low Stock
+ORD0160,29-05-2024,Vegetables,Carrot,East,5,84,420,Available
+ORD0161,12-04-2024,Snacks,Chips,North,68,486,33048,Out of Stock
+ORD0162,18-03-2023,Vegetables,Carrot,West,84,99,8316,Low Stock
+ORD0163,27-10-2024,Beverages,Milkshake,North,89,223,19847,Low Stock
+ORD0164,14-05-2024,Dairy,Yogurt,North,41,340,13940,Out of Stock
+ORD0165,22-10-2023,Fruits,Banana,South,81,370,29970,Out of Stock
+ORD0166,10-10-2024,Fruits,Grapes,North,13,409,5317,Low Stock
+ORD0167,29-11-2023,Vegetables,Onion,North,4,43,172,Low Stock
+ORD0168,08-09-2023,Beverages,Juice,West,56,94,5264,Out of Stock
+ORD0169,16-09-2024,Vegetables,Potato,West,23,60,1380,Out of Stock
+ORD0170,26-08-2023,Vegetables,Carrot,West,75,93,6975,Out of Stock
+ORD0171,10-01-2023,Beverages,Soft Drink,West,33,361,11913,Low Stock
+ORD0172,20-12-2023,Dairy,Cheese,East,10,246,2460,Out of Stock
+ORD0173,06-11-2023,Snacks,Biscuits,South,59,452,26668,Low Stock
+ORD0174,08-08-2024,Snacks,Chips,East,31,215,6665,Out of Stock
+ORD0175,05-11-2024,Beverages,Juice,West,3,444,1332,Low Stock
+ORD0176,20-02-2023,Fruits,Mango,West,88,418,36784,Low Stock
+ORD0177,13-10-2024,Vegetables,Beans,South,46,132,6072,Out of Stock
+ORD0178,04-10-2024,Beverages,Coffee,North,81,69,5589,Low Stock
+ORD0179,15-05-2023,Snacks,Chips,North,75,206,15450,Low Stock
+ORD0180,16-05-2023,Beverages,Soft Drink,East,23,122,2806,Out of Stock
+ORD0181,08-05-2024,Dairy,Butter,East,22,151,3322,Out of Stock
+ORD0182,25-05-2023,Beverages,Tea,South,60,58,3480,Out of Stock
+ORD0183,09-02-2024,Snacks,Popcorn,North,47,66,3102,Low Stock
+ORD0184,19-11-2024,Dairy,Milk,East,59,208,12272,Out of Stock
+ORD0185,28-08-2023,Snacks,Biscuits,West,14,365,5110,Available
+ORD0186,16-09-2024,Dairy,Paneer,South,42,488,20496,Out of Stock
+ORD0187,26-10-2024,Fruits,Grapes,West,90,174,15660,Available
+ORD0188,19-05-2024,Vegetables,Tomato,North,5,175,875,Available
+ORD0189,09-04-2024,Vegetables,Beans,East,18,218,3924,Out of Stock
+ORD0190,08-06-2023,Dairy,Yogurt,West,76,400,30400,Out of Stock
+ORD0191,14-10-2023,Fruits,Grapes,North,79,228,18012,Out of Stock
+ORD0192,30-08-2023,Beverages,Coffee,East,57,247,14079,Available
+ORD0193,04-03-2023,Beverages,Milkshake,West,83,203,16849,Low Stock
+ORD0194,09-11-2024,Vegetables,Tomato,South,59,66,3894,Out of Stock
+ORD0195,08-12-2023,Dairy,Milk,South,7,422,2954,Available
+ORD0196,21-07-2024,Dairy,Cheese,South,9,444,3996,Out of Stock
+ORD0197,01-06-2023,Vegetables,Potato,North,43,416,17888,Low Stock
+ORD0198,28-06-2023,Vegetables,Potato,North,70,148,10360,Out of Stock
+ORD0199,01-09-2023,Fruits,Banana,East,2,203,406,Available
+ORD0200,07-03-2024,Vegetables,Onion,North,7,84,588,Out of Stock
+ORD0201,06-01-2024,Fruits,Grapes,North,58,418,24244,Low Stock
+ORD0202,05-11-2024,Dairy,Cheese,East,79,42,3318,Low Stock
+ORD0203,16-02-2024,Fruits,Apple,West,62,453,28086,Out of Stock
+ORD0204,30-03-2024,Fruits,Grapes,North,92,485,44620,Available
+ORD0205,10-05-2023,Beverages,Milkshake,East,19,53,1007,Out of Stock
+ORD0206,26-01-2024,Dairy,Paneer,East,92,186,17112,Low Stock
+ORD0207,28-04-2023,Dairy,Paneer,South,56,70,3920,Low Stock
+ORD0208,09-04-2024,Snacks,Cookies,West,53,193,10229,Low Stock
+ORD0209,12-11-2024,Fruits,Orange,East,55,180,9900,Low Stock
+ORD0210,29-03-2023,Vegetables,Carrot,North,9,66,594,Low Stock
+ORD0211,03-03-2023,Fruits,Orange,East,17,304,5168,Out of Stock
+ORD0212,12-11-2024,Fruits,Grapes,West,46,467,21482,Out of Stock
+ORD0213,27-12-2023,Fruits,Orange,North,77,179,13783,Out of Stock
+ORD0214,08-05-2024,Dairy,Cheese,South,20,356,7120,Available
+ORD0215,13-10-2023,Beverages,Milkshake,South,48,78,3744,Low Stock
+ORD0216,20-10-2024,Dairy,Paneer,North,79,365,28835,Out of Stock
+ORD0217,13-11-2023,Beverages,Tea,East,24,159,3816,Low Stock
+ORD0218,04-11-2024,Fruits,Banana,West,19,309,5871,Available
+ORD0219,27-06-2024,Vegetables,Tomato,South,12,402,4824,Low Stock
+ORD0220,14-01-2024,Snacks,Nuts,East,44,100,4400,Out of Stock
+ORD0221,23-02-2023,Beverages,Milkshake,South,77,63,4851,Available
+ORD0222,06-10-2023,Dairy,Milk,West,87,61,5307,Out of Stock
+ORD0223,29-02-2024,Snacks,Nuts,East,78,246,19188,Available
+ORD0224,24-04-2023,Dairy,Milk,East,45,240,10800,Out of Stock
+ORD0225,12-11-2023,Dairy,Yogurt,North,68,361,24548,Available
+ORD0226,29-07-2023,Snacks,Popcorn,East,8,23,184,Available
+ORD0227,03-05-2023,Vegetables,Onion,North,38,187,7106,Low Stock
+ORD0228,29-06-2024,Snacks,Cookies,South,17,214,3638,Out of Stock
+ORD0229,13-02-2023,Dairy,Butter,West,10,223,2230,Available
+ORD0230,15-03-2024,Snacks,Chips,West,41,314,12874,Out of Stock
+ORD0231,22-01-2023,Snacks,Biscuits,East,15,227,3405,Available
+ORD0232,06-01-2024,Dairy,Yogurt,North,89,490,43610,Low Stock
+ORD0233,15-02-2024,Fruits,Banana,North,56,321,17976,Low Stock
+ORD0234,22-06-2023,Beverages,Juice,North,29,190,5510,Out of Stock
+ORD0235,24-12-2023,Fruits,Mango,East,66,119,7854,Out of Stock
+ORD0236,20-09-2023,Vegetables,Potato,South,14,94,1316,Available
+ORD0237,02-11-2024,Dairy,Cheese,North,98,408,39984,Available
+ORD0238,16-08-2024,Snacks,Nuts,West,97,308,29876,Out of Stock
+ORD0239,04-10-2024,Dairy,Paneer,East,42,462,19404,Available
+ORD0240,08-10-2024,Snacks,Chips,East,61,246,15006,Low Stock
+ORD0241,17-03-2023,Dairy,Milk,East,46,279,12834,Low Stock
+ORD0242,21-10-2023,Snacks,Chips,North,8,208,1664,Out of Stock
+ORD0243,29-01-2024,Fruits,Mango,West,77,279,21483,Out of Stock
+ORD0244,08-08-2024,Dairy,Milk,South,58,485,28130,Low Stock
+ORD0245,05-03-2023,Dairy,Yogurt,West,65,97,6305,Available
+ORD0246,26-06-2023,Beverages,Tea,North,65,350,22750,Available
+ORD0247,16-09-2024,Snacks,Nuts,South,68,287,19516,Low Stock
+ORD0248,13-12-2023,Beverages,Juice,North,50,229,11450,Out of Stock
+ORD0249,25-07-2024,Beverages,Tea,West,43,68,2924,Low Stock
+ORD0250,25-03-2023,Beverages,Milkshake,South,20,190,3800,Low Stock
