@@ -1,0 +1,3 @@
+19:15:22	create table entrollment(  entrollmentid int auto_increment primary key,     studentid int,     courseid int,     entrollmentdate date,     foreign key(studentid) references students(studentid),     foreign key(courseid) references students(courseid) )	
+
+Error Code: 3734. Failed to add the foreign key constraint. Missing column 'courseid' for constraint 'entrollment_ibfk_2' in the referenced table 'students'	0.000 sec
