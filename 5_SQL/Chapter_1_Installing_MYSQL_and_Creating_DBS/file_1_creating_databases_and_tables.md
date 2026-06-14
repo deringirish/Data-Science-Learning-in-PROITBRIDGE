@@ -193,7 +193,7 @@ Creates a relationship between:
         - **BigInt**: Large whole numbers `(e.g., 123466789456)`.
     - **Floating**
         - **Float**: Approximate decimal values `(e.g., 3.15)`.
-            - Double: Higher precision approximate decimals `(e.g., 3.145835)`.
+        - **Double**: Higher precision approximate decimals `(e.g., 3.145835)`.
     - **Fixed Point**
         - **Decimal(p,s)**: Exact numerical values; ideal for financial calculations `(e.g., Decimal(10,2) outputs 12345678.90)`.
 
@@ -209,7 +209,7 @@ Creates a relationship between:
     - **Date Time**: Stores both date and time `(Format: YYYY-MM-DD HH:MM:SS, e.g., 2024-11-01 12:30:45)`.
     - **Timestamp**: Stores tracking data for exact moments in time, often timezone-aware `(Format: 2024-11-01 12:30:45)`.
 
-4. **Boolean Data Type** - **Boolean**: Represents logical binary truth values. - True - False
+4. **Boolean Data Type** - **Boolean**: Represents logical binary truth values. - `True - False`
    <br>
 5. **Semi-Structured Data Types**
     - **JSON**: Key-value data formats `(e.g., { "Key": "Value" })`.
