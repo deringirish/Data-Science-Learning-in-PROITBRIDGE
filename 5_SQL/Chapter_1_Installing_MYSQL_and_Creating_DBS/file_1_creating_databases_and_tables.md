@@ -219,3 +219,8 @@ Creates a relationship between:
     - **Money**: Optimized numeric structure specifically for monetary values `(e.g., $ 200)`.
 
 ---
+
+
+## SQL keywords 
+
+--> need to find 
