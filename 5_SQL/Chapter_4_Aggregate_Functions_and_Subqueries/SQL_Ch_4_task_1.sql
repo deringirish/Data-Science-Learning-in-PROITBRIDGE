@@ -1,3 +1,5 @@
+-- Using Data which is created in Chapter 2 - Task
+
 USE sales_management_task;
 
 -- Task 1 – Aggregate Functions

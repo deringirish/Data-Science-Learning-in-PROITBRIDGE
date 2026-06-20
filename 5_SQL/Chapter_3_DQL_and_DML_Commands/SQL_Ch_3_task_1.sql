@@ -1,3 +1,5 @@
+-- Using Data which is created in Chapter 2 - Task
+
 USE sales_management_task;
 
 -- 1. Display all Classic Cars whose buy price is greater than 50.
