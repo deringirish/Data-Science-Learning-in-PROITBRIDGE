@@ -32,7 +32,17 @@
 
 ### 10. CI/CD
 
+---
 
-asdfasdf
+## Life Cycle
 
-
+1. Business Understanding
+2. Data Collection
+3. Data Understanding
+4. Data Preparation
+5. Model Building
+6. Model Training
+7. Model Testing
+8. Model Evaluation
+9. Model Deployment
+10. CI/CD
